@@ -1,7 +1,5 @@
 {
-	"name": "Codespace 1",
-
-    "image": "mcr.microsoft.com/devcontainers/universal:2" ,  
+	"name": "Codespace 1", 
 
 	"build": {
 		"dockerfile": "Dockerfile"
