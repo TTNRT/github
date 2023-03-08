@@ -1,11 +1,6 @@
 {
 	"name": "Codespace 1", 
 
-	"build": {
-		"dockerfile": "Dockerfile"
-	},
-
-	
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [80],
 
